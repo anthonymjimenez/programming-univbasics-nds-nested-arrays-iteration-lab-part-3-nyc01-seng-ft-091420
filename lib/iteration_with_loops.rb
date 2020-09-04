@@ -14,3 +14,5 @@ def join_nested_strings(src)
 
 
 end
+
+join_nested_strings([['I', 4], ['f', 5]])
