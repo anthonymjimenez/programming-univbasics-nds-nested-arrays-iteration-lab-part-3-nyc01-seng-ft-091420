@@ -4,13 +4,13 @@ def join_nested_strings(src)
   stringArr = []
 
   src.length.times do |x|
-    src[x].length.times do |y| 
+    src[x].length.times do |y|
       if src[x][y].is_a? String
-        puts 'wil you' 
-    
+        puts 'wil you'
 
-  
-  
-    
-  
+
+
+
+
+
 end
