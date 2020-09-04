@@ -11,5 +11,3 @@ def join_nested_strings(src)
   end
   stringArr.join(//)
 end
-
-
