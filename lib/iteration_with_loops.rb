@@ -7,12 +7,9 @@ def join_nested_strings(src)
     src[x].length.times do |y|
       if src[x][y].is_a? String
         puts 'wil you'
-
-
-
-
-
-
+      end
+    end
+  end
 end
 
 join_nested_strings([['I', 4], ['f', 5]])
